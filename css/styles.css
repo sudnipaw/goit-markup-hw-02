@@ -162,4 +162,44 @@
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  cursor: pointer;
+}
+.portfolio-menu:hover .portfolio-menu:focus .figcaption-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+.figcaption-role {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.list {
+  list-style: none;
+  text-decoration: none;
+}
+.portfolio-figcaption-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-figcaption-role {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
